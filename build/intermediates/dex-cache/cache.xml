@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\CGlazerEarthquakes\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\classes-f77521ed5c1f4a627f31b8cb3315ea8909461a90.jar" />
+    </item>
+    <item
+        jar="E:\Android\CGlazerEarthquakes\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\classes-9444914eec98a6fa1f85a9fe94590857064cded8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chaya Glazer\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\gson-2.4-0504e563e333db3ba6af78e40276c940735555fc.jar" />
+    </item>
+    <item
+        jar="E:\Android\CGlazerEarthquakes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\classes-2718b2c84313e7ad2540657428db2189b71681e7.jar" />
+    </item>
+    <item
+        jar="E:\Android\CGlazerEarthquakes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\classes-4d4b2473912e1305ffb260856cb4c7888ebd5e1f.jar" />
+    </item>
+    <item
+        jar="E:\Android\CGlazerEarthquakes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-32318a39606227a73c5a7279e0c4c9f1c5405671.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chaya Glazer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\Android\CGlazerEarthquakes\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-844669d5e19930b27a6218444cb77b417087502e.jar" />
+    </item>
+
+</items>

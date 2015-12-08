@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tit"
+        style="@style/EarthquakePlace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/place"
+        style="@style/EarthquakePlace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        tools:text="PLACE" />
+    <TextView
+        android:id="@+id/time"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="TIME" />
+    <TextView
+        android:id="@+id/felt_by"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="TYPE" />
+
+    <TextView
+        android:id="@+id/magnitude"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="MAGNITUDE" />
+
+    <TextView
+        android:id="@+id/significance"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="SIGNIFICANCE" />
+
+    <TextView
+        android:id="@+id/gap"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="GAP" />
+
+    <TextView
+        android:id="@+id/dmin"
+        style="@style/EarthquakeInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="DISTANCE" />
+
+</LinearLayout>
